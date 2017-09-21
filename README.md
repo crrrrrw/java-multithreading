@@ -1,2 +1,2 @@
-# java-multithreading
-java多线程学习
+# 归纳总结《java多线程编程核心技术》
+java多线程学习，对《java多线程编程核心技术》中内容阅读并实现示例
