@@ -1,4 +1,4 @@
-package com.crw.study.java;
+package com.crw.study.java.multithread;
 
 /**
  * 使用多线程之继承Thread

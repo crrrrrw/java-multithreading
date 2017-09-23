@@ -1,4 +1,4 @@
-package com.crw.study.java;
+package com.crw.study.java.multithread;
 
 /**
  * P11数据共享的例子.
@@ -16,7 +16,7 @@ public class Run2_shareData {
         cc.start();
 
         // 2. 数据共享例子 非线程安全
-        // 多线程操作同意变量
+        // 多线程操作同一变量
         MyThread4 myThread = new MyThread4();
         Thread a = new Thread(myThread, "A");
         Thread b = new Thread(myThread, "B");
