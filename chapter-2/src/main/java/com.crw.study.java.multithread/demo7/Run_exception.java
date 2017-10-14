@@ -31,8 +31,8 @@ java.lang.NumberFormatException: For input string: "a"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:580)
 	at java.lang.Integer.parseInt(Integer.java:615)
-	at com.crw.study.java.multithread.demo7.Service.testMethod(Service.java:12)
-	at com.crw.study.java.multithread.demo7.ThreadA.run(ThreadA.java:13)
+	at com.crw.study.java.multithread.demo7.Service1.testMethod(Service1.java:12)
+	at com.crw.study.java.multithread.demo7.ThreadA1.run(ThreadA1.java:13)
 
 ---------------
 
@@ -43,8 +43,8 @@ Exception in thread "a" java.lang.NumberFormatException: For input string: "a"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:580)
 	at java.lang.Integer.parseInt(Integer.java:615)
-	at com.crw.study.java.multithread.demo7.Service.testMethod(Service.java:12)
-	at com.crw.study.java.multithread.demo7.ThreadA.run(ThreadA.java:13)
+	at com.crw.study.java.multithread.demo7.Service1.testMethod(Service1.java:12)
+	at com.crw.study.java.multithread.demo7.ThreadA1.run(ThreadA1.java:13)
 
 
 
@@ -56,8 +56,8 @@ Exception in thread "a" java.lang.NumberFormatException: For input string: "a"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:580)
 	at java.lang.Integer.parseInt(Integer.java:615)
-	at com.crw.study.java.multithread.demo7.Service.testMethod(Service.java:12)
-	at com.crw.study.java.multithread.demo7.ThreadA.run(ThreadA.java:13)
+	at com.crw.study.java.multithread.demo7.Service1.testMethod(Service1.java:12)
+	at com.crw.study.java.multithread.demo7.ThreadA1.run(ThreadA1.java:13)
 ThreadName=a run exceptionTime=1507732731409
 Thread b run Time=1507732731894
  */
