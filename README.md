@@ -8,4 +8,7 @@ java多线程学习，对《java多线程编程核心技术》中内容阅读并
 见chapter-2 已完成
 
 ## 第3章 线程间通信
-见chapter-3 进行中
+见chapter-3 已完成
+
+## 第4章 Lock的使用
+见chapter-4 进行中
