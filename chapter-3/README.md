@@ -19,6 +19,8 @@
 9. join()与synchronized区别是：join在内部使用wait()方法进行等待，而synchronized关键字使用的是“对象监视器”原理作为同步。
 10. join(long) 与 sleep(long) 区别：join(long)内部使用wait(long)方法来实现，所以具有释放锁的特点。
 而sleep(long)方法却不释放锁。
+11. ThreadLocal:解决每个线程各自的共享变量问题。(源码阅读，ThreadLocalMap)
+12. 类InheritableThreadLocal使用，值继承，子线程从父线程取得值
 
 ### Java线程的5种状态及切换
 #### 0.Java中的线程的生命周期大体可分为5种状态。
